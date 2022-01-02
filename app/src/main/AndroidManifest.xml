@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Grupo2_TA3_InicioSesionFirebase">
         <activity
+            android:name=".registro"
+            android:exported="false" />
+        <activity
             android:name=".PerfilUsuario"
             android:exported="false" />
         <activity
